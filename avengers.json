@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Captain America",
+    "status": "Old"
+  },
+  {
+    "id": 2,
+    "name": "Iron Man",
+    "status": "Dead"
+  },
+  {
+    "id": 3,
+    "name": "Thor",
+    "status": "Lame"
+  },
+  {
+    "id": 4,
+    "name": "Hulk",
+    "status": "Retired"
+  },
+  {
+    "id": 5,
+    "name": "Black Widow",
+    "status": "Dead"
+  },
+  {
+    "id": 6,
+    "name": "Hawkeye",
+    "status": "Retired"
+  }
+]
